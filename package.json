@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/BenkejjaneOuss/node-typescript-boilerplate#readme",
   "devDependencies": {
-    "@tsconfig/recommended": "^1.0.1"
+    "@tsconfig/recommended": "^1.0.1",
+    "prettier": "^2.7.1"
   }
 }
