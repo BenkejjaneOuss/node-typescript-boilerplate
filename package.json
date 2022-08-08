@@ -18,6 +18,9 @@
   "homepage": "https://github.com/BenkejjaneOuss/node-typescript-boilerplate#readme",
   "devDependencies": {
     "@tsconfig/recommended": "^1.0.1",
+    "@typescript-eslint/eslint-plugin": "^5.32.0",
+    "@typescript-eslint/parser": "^5.32.0",
+    "eslint": "^8.21.0",
     "prettier": "^2.7.1"
   }
 }
